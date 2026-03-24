@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Siku</h1>
-<h3 align="center">A passionate Data Analyst based in Portugal</h3>
+<h3 align="center">A passionate data-driven professional based in Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelopedro7&label=Profile%20views&color=0e75b6&style=flat" alt="marcelopedro7" /> </p>
 
